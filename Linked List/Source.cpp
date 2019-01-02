@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <string.h>
 #include <conio.h>// for 'cls'
-#include <stdlib.h> // atoi , rand
+#include <stdlib.h> // atoi , rand , malloc
 #include <time.h> // srand
 #include <ctype.h> 
 #define size 100
